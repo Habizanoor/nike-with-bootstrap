@@ -1,0 +1,30 @@
+img.logo{
+    max-width: 292px;
+}
+.banner{
+    padding-bottom: 129px;
+}
+.banner-orange{
+    color: #FA804C;
+}
+.buy-now-button{
+    background-image: linear-gradient(#3D4FF3,#3543BC);
+}
+.items{
+    background: #FFFFFF;
+    
+    border-radius: 20px;
+}
+.card-img{
+    background-color: #F1F1F1;
+    max-width: 311px;
+    height: 311px;
+    border-radius: 20px;
+}
+.about-sec{
+    border-radius: 20px;
+}
+.small-img{
+    width: 78px;
+    height: 82px;
+}
